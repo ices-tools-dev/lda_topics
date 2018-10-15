@@ -15,7 +15,7 @@ Arni, Carlos, Shaheen
 
 **Action items**
 
-* [ ]  Prepare and make available a PDF collection for initial analysis, starting
+* [x]  Prepare and make available a PDF collection for initial analysis, starting
   around the year 2000. [Carlos]
 
 * [ ]  Analyze the first PDF collection using LDA. [Shaheen]
