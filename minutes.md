@@ -15,18 +15,18 @@ Arni, Carlos, Shaheen
 
 **Action items**
 
-- Prepare and make available a PDF collection for initial analysis, starting
+* [ ]  Prepare and make available a PDF collection for initial analysis, starting
   around the year 2000. [Carlos]
 
-- Analyze the first PDF collection using LDA. [Shaheen]
+* [ ]  Analyze the first PDF collection using LDA. [Shaheen]
 
- * [ ]  Present initial results. [Shaheen]
+* [ ]  Present initial results. [Shaheen]
 
-- Discuss initial results. [Arni, Carlos, Shaheen]
+* [ ]  Discuss initial results. [Arni, Carlos, Shaheen]
 
-- Examine which PDF reports are administrative or duplicated material. [Arni]
+* [ ]  Examine which PDF reports are administrative or duplicated material. [Arni]
 
-- Write a script that removes PDF files to narrow down to scientific reports.
+* [ ]  Write a script that removes PDF files to narrow down to scientific reports.
   [Arni]
 
-- Prepare a GitHub repository to coordinate the work. [Arni]
+* [ ]  Prepare a GitHub repository to coordinate the work. [Arni]
