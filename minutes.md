@@ -20,7 +20,7 @@ Arni, Carlos, Shaheen
 
 - Analyze the first PDF collection using LDA. [Shaheen]
 
-*[ ] Present initial results. [Shaheen]
+* [] Present initial results. [Shaheen]
 
 - Discuss initial results. [Arni, Carlos, Shaheen]
 
