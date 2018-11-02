@@ -1,0 +1,36 @@
+Appears twice
+
+smolt production
+
+
+
+Possible synonyms
+
+white = whiting
+ice = ices
+
+
+
+Words that should be together
+
+reference point
+target reference point
+limit reference point
+harvest rule
+harvest control rule
+target species
+size limit
+age determination
+
+
+
+Words that should not be together
+
+age age
+age year
+weight age
+year age
+reader reader
+smolt smolt
+ice *
+* report
