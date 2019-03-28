@@ -7,3 +7,5 @@ Distance: sum of absolute differences, Hellinger, "euclidean", "maximum", "manha
 Look at each topic: which groups cover it, what are the main focus topics in ICES
 
 Look at years: how have the topics changed over time, what are the new ones
+
+Abstract for ASC
