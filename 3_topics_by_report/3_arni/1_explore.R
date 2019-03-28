@@ -30,3 +30,7 @@ type[left(x$Group,2) == "AG"] <- "AG"
 type[type == ""] <- "Other"
 barplot(sort(table(type), decreasing=TRUE), main="Reports by Type")
 dev.off()
+
+png("years.png", width=1200, height=600, pointsize=16)
+barplot(table(x$Year), main="Reports by Year")
+dev.off()
