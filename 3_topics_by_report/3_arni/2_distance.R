@@ -9,3 +9,5 @@ x <- x[x$Group != "NoAcronym",]
 ## 3  Average topics by group
 y <- x[!(names(x) %in% c("Year","Title"))]
 y <- aggregate(.~Group, y, mean)
+
+## 4  Absolute

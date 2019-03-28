@@ -7,11 +7,12 @@ x$Year <- as.integer(x$Year)
 x <- x[x$Group != "NoAcronym",]
 
 ## 3  Barplots
+png("overview.png", width=1200, height=600, pointsize=20)
 par(mfrow=c(1,3))
 
 barplot(table(x$Year), main="Reports by Year")
 
-opar <- par(plt=c(0.2,0.95,0.08, 0.92))
+opar <- par(plt=c(0.2,0.95,0.12, 0.89))
 gcount <- sort(table(x$Group), decreasing=TRUE)
 barplot(gcount[gcount>20], horiz=TRUE, las=1, main="Reports by Group")
 par(opar)
@@ -28,3 +29,4 @@ type[left(x$Group,2) == "PG"] <- "PG"
 type[left(x$Group,2) == "AG"] <- "AG"
 type[type == ""] <- "Other"
 barplot(sort(table(type), decreasing=TRUE), main="Reports by Type")
+dev.off()
